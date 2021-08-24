@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#convertedSection{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+#convertedSection input{
+  text-align: center;
+} 
+
+#textCenter{
+  text-align: center;
+}
+
+#selectDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
+
+#spanPadding{
+  padding: 30px;
+}
+
+#buttonPadding{
+  padding: 10px;
+}
+
+#h1Style{
+  margin-bottom: 35px;
+}
